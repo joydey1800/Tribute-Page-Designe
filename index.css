@@ -1,0 +1,42 @@
+body {
+	background: linear-gradient(35deg, #ccffff, #ffcccc, rgb(204, 204, 255));
+	font-family: 'Cinzel Decorative', cursive;
+}
+
+#main {
+	margin: 30px;
+	padding: 30px;
+	border-radius: 9px;
+	background-color: rgba(0, 0, 0, .1);
+}
+
+#title {
+	font-weight: bold;
+}
+#image {
+	max-width: 100%;
+	display: block;
+	display: block;
+	margin: auto;
+}
+#img-caption {
+	margin: 15px;
+	font-weight: bold;
+}
+ul {
+	max-width: 550px;
+	margin: 0 auto;
+	text-align: left;
+	list-style-type: none;
+}
+ul li {
+	padding: 10px;
+}
+h3 {
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 30px;
+}
+#tribute-link {
+	text-decoration: none;
+}
